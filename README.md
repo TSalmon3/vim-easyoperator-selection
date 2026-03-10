@@ -1,4 +1,4 @@
-## vim-easyoperator-selection
+## VIM EASYOPERATOR SELECTION
 
 基于 easymotion 中文单词选择插件
 
@@ -24,7 +24,7 @@
 <cursor>基于 easymotion 中文{a}{s}选择{d}件
 ```
 
-按 `s` 选中 ` 中文单词`。
+按 `s` 选中 `中文单词`。
 
 ### 依赖
 

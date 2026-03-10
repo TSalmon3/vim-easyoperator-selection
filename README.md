@@ -2,7 +2,7 @@
 
 基于 easymotion 中文单词选择插件
 
-### 用法
+## 用法
 
 以下面这段中文为例， 选中 `中文单词` ：
 
@@ -26,12 +26,12 @@
 
 按 `s` 选中 `中文单词`。
 
-### 依赖
+## 依赖
 
 - [easymotion](https://github.com/Lokaltog/vim-easymotion)
 - [vim-easymotion-zh](https://github.com/zzhirong/vim-easymotion-zh)
 
-### 安装/参考配置
+## 安装/参考配置
 
 ```vim
 Plug 'easymotion/vim-easymotion'
@@ -46,10 +46,10 @@ nnoremap dmv <Plug>(easyoperator-selection-delete)
 nnoremap ymv <Plug>(easyoperator-selection-yank)
 ```
 
-### 感谢
+## 感谢
 
 本项目基于 [vim-easyoperator-phrase](https://github.com/haya14busa/vim-easyoperator-phrase) 开发，特别感谢原作者的优秀工作。
 
-### 许可
+## 许可
 
 MIT license

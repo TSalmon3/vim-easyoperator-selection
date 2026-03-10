@@ -2,6 +2,30 @@
 
 基于 easymotion 中文单词选择插件
 
+### 用法
+
+以下面这段中文为例， 选中 `中文单词` ：
+
+```
+<cursor>基于 easymotion 中文单词选择插件
+```
+
+在 `normal` 模式下，键入 `vmv`(`v<Plug>(easyoperator-selection-select)`)，
+
+根据提示输入第一个单词 `z`：
+
+```
+<cursor>基于 easymotion {a}文单词选{s}插件
+```
+
+按 `a` 会高亮中文汉字 `中`。根据提示输入第二个单词 `c`：
+
+```
+<cursor>基于 easymotion 中文{a}{s}选择{d}件
+```
+
+按 `s` 选中 ` 中文单词`。
+
 ### 依赖
 
 - [easymotion](https://github.com/Lokaltog/vim-easymotion)

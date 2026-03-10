@@ -1,4 +1,4 @@
-## VIM EASYOPERATOR SELECTION
+## Vim Easymotion Selection
 
 基于 easymotion 中文单词选择插件
 
